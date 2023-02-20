@@ -2,10 +2,10 @@
 
 Enlace al repositorio: https://github.com/Silvia452/ejerciciosTema5/tree/master
 
-#Ejercicio 1
+**Ejercicio 1**
 Crear un algoritmo escribiendo los valores comprendidos entre diez y cero en orden descendente en una tabla, y posteriormente recorrer esta tabla para mostrar la cuenta hacia atrás.
 
-#Ejercicio 2
+**Ejercicio 2**
 Realizar un algoritmo que haga que el usuario introduzca tantas cifras comprendidas entre cero y nueve como desee. Una vez que el usuario ha terminado su serie introduciendo -1, el algoritmo muestra el número de veces que se ha escrito cada dígito.
 
 Ejemplo de ejecución:
@@ -54,7 +54,7 @@ Cantidad de 8: 0
 
 Cantidad de 9: 1
 
-#Ejercicio 3
+**Ejercicio 3**
 
 Producir un algoritmo agregando notas en una tabla. Al final, mostrar todas las calificaciones y su media.
 
@@ -82,7 +82,7 @@ Ejemplo de ejecución del algoritmo:
 
 La media de las notas (12; 15; 8; 7) es 10,5.
 
-#Ejercicio 4
+**Ejercicio 4**
 
 Cree un algoritmo que pida a los usuarios que voten (los usuarios se turnarán para usar su máquina de votación). Se proponen varios candidatos. Al final del día, el presidente de la mesa de votación introduce un código especial para finalizar la votación (68753421) y se muestran los resultados. Eso sí, este ejercicio es teórico, ya que la seguridad no está garantizada y un usuario puede votar varias veces...
 
@@ -208,7 +208,7 @@ María AGUAVIVA: 28,57 %
 
 Nadia LETUX: 57,14 %
 
-#Ejercicio 5
+**Ejercicio 5**
 Un palíndromo es una palabra cuyo orden de letras sigue siendo el mismo si se lee de izquierda a derecha o de derecha a izquierda. Ejemplos: Kayak, Ana, radar, rotor, etc.
 
 Escriba un algoritmo que pida al usuario una palabra sin acento, en minúsculas y seguida de un carácter en particular para indicar el final (# por ejemplo), y que le diga al usuario si esta palabra es un palíndromo.
