@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4183a4f-4bf9-4e4e-a2d3-d36e452338e4" name="Changes" comment="Ejercicios 1 y 2 y 5 realizados, falta 3,4,6,7">
+    <list default="true" id="e4183a4f-4bf9-4e4e-a2d3-d36e452338e4" name="Changes" comment="Falta ejercicio 6">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OutofRangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ejercicio8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <updated>1676902899782</updated>
       <workItem from="1676902901828" duration="2385000" />
       <workItem from="1677002885504" duration="1316000" />
-      <workItem from="1677063661198" duration="3202000" />
+      <workItem from="1677063661198" duration="4574000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios 1 y 2">
       <created>1676905359075</created>
@@ -81,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677065751819</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Falta ejercicio 6">
+      <created>1677067154234</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677067154235</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +111,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicios 1 y 2" />
     <MESSAGE value="Ejercicios 1 y 2 y 5 realizados, falta 3,4,6,7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios 1 y 2 y 5 realizados, falta 3,4,6,7" />
+    <MESSAGE value="Falta ejercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta ejercicio 6" />
   </component>
 </project>

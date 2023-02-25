@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ejercicio3 {
@@ -10,20 +11,22 @@ public class ejercicio3 {
     }
 
     public static void mediav4(){
-        int[] valores = new int[100]; //creamos un array de 100 valores
-        int suma = 0;
-        int i = 0; //contador de valores introducidos
-        while (true) {
-            System.out.println("¿Nota(-1 para terminar)? ");
-            valores[i] = sc.nextInt();
-            if (valores[i] == -1) { //si el valor introducido es -1, se rompe el bucle
-                break;
+        Scanner sc = new Scanner(System.in);
+        int nota;
+        ArrayList<Integer> notas = new ArrayList<>();
+        do {
+            System.out.println("Introduce una nota(-1 para terminar): ");
+            nota = sc.nextInt();
+            if (nota != -1) {
+                notas.add(nota);
             }
-            suma += valores[i]; //se suma el valor introducido al total
-            i++;
+        } while (nota != -1);
+        double media = 0;
+        for (int i = 0; i < notas.size(); i++) {
+            media += notas.get(i);
         }
-
-        System.out.println("La media aritmética de los valores introducidos " + " es: " + (suma / i));
+        media /= notas.size();
+        System.out.println("La media de las notas "+notas+" es: " + media);
 
     }
 }
