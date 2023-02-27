@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4183a4f-4bf9-4e4e-a2d3-d36e452338e4" name="Changes" comment="Falta ejercicio 6,8" />
+    <list default="true" id="e4183a4f-4bf9-4e4e-a2d3-d36e452338e4" name="Changes" comment="Falta ejercicio 6,8,9">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ejercicio8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ejercicio8.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +65,8 @@
       <workItem from="1676902901828" duration="2385000" />
       <workItem from="1677002885504" duration="1316000" />
       <workItem from="1677063661198" duration="4574000" />
-      <workItem from="1677352851212" duration="227000" />
+      <workItem from="1677352851212" duration="1204000" />
+      <workItem from="1677495680954" duration="917000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicios 1 y 2">
       <created>1676905359075</created>
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677353151941</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Falta ejercicio 6,8,9">
+      <created>1677353524011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677353524011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +125,7 @@
     <MESSAGE value="Ejercicios 1 y 2 y 5 realizados, falta 3,4,6,7" />
     <MESSAGE value="Falta ejercicio 6" />
     <MESSAGE value="Falta ejercicio 6,8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Falta ejercicio 6,8" />
+    <MESSAGE value="Falta ejercicio 6,8,9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Falta ejercicio 6,8,9" />
   </component>
 </project>
