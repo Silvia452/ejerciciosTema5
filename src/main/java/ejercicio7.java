@@ -7,10 +7,12 @@ public class ejercicio7 {
 
     }
     public static void matriz(){
-        char[][] matriz = new char[20][30];
-        for (int i = 0; i < matriz.length; i++) {
+
+        char[][] matriz = new char[20][30]; //creamos la matriz
+
+        for (int i = 0; i < matriz.length; i++) { //rellenamos la matriz con caracteres aleatorios
             for (int j = 0; j < matriz[i].length; j++) {
-                matriz[i][j] = (char) (Math.random() * 26 + 'a');
+                matriz[i][j] = (char) (Math.random() * 26 + 'a'); //le damos un valor aleatorio a cada posicion de la matriz
             }
         }
         for (int i = 0; i < matriz.length; i++) {

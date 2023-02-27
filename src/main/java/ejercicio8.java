@@ -12,6 +12,7 @@ public class ejercicio8 {
 
     public static final Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
+        microGuerraBarcos();
 
     }
     public static void microGuerraBarcos(){
@@ -34,6 +35,8 @@ public class ejercicio8 {
                 System.out.println("Has fallado");
             }
         } while (cont == 0);
+
+        System.out.println(tablero[fila][columna]);
 
     }
 }

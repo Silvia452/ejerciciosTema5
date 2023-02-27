@@ -8,7 +8,7 @@ public class ejercicio5 {
 
     public static void palindromo() {
         Scanner sn = new Scanner(System.in);
-        System.out.print("Escriba una palabra y después #: ");
+        System.out.print("Escriba una palabra y después un símbolo (ejemplo#): ");
         String input = sn.nextLine();
 
         // Eliminar el carácter de finalización

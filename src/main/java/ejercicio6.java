@@ -2,7 +2,9 @@ public class ejercicio6 {
 
     public static void main(String[] args) {
         ejercicio6metodo1();
+        System.out.println("\n");
         ejercicio6metodo2();
+        System.out.println("\n");
         ejercicio6metodo3();
 
     }
