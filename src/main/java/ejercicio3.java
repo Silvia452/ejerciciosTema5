@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 public class ejercicio3 {
 
-    public static final Scanner sc = new Scanner(System.in);
-
     public static void main(String[] args) {
         mediav4();
 
