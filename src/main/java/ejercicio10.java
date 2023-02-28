@@ -39,8 +39,8 @@ public class ejercicio10 {
     public static void ejercicio10metodo() {
         ejercicio10 tabla = new ejercicio10();
 
-        Empleado empleado1 = new Empleado("Juan", 1001, 123456789);
-        Empleado empleado2 = new Empleado("María", 1002, 987654321);
+        Empleado empleado1 = new Empleado("Pedro", 900, 123456789);
+        Empleado empleado2 = new Empleado("Marta", 901, 987654321);
 
         tabla.agregarEmpleado(empleado1);
         tabla.agregarEmpleado(empleado2);
@@ -55,8 +55,8 @@ public class ejercicio10 {
         }
 
         System.out.println("Buscar empleado por nombre");
-        Empleado resultado2 = tabla.buscarPorNombre("Juan");
-        System.out.println("¿Existe el empleado llamado Juan? " + (resultado2 != null));
+        Empleado resultado2 = tabla.buscarPorNombre("Pedro");
+        System.out.println("¿Existe el empleado llamado Pedro? " + (resultado2 != null));
         System.out.println("Buscar empleado por número de empleado");
         Empleado resultado3 = tabla.buscarPorNumeroEmpleado(1001);
         System.out.println("¿Existe el empleado con número de empleado 1001? " + (resultado3 != null));
